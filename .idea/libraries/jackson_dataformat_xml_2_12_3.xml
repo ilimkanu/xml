@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jackson-dataformat-xml-2.12.3">
+    <CLASSES>
+      <root url="jar://D:/dependencies/jar_files (1)/jackson-dataformat-xml-2.12.3.jar!/" />
+      <root url="jar://D:/dependencies/jar_files (1)/jackson-databind-2.12.3.jar!/" />
+      <root url="jar://D:/dependencies/jar_files (1)/jackson-core-2.12.3.jar!/" />
+      <root url="jar://D:/dependencies/jar_files (1)/jackson-module-jaxb-annotations-2.12.3.jar!/" />
+      <root url="jar://D:/dependencies/jar_files (1)/jakarta.activation-api-1.2.1.jar!/" />
+      <root url="jar://D:/dependencies/jar_files (1)/jakarta.xml.bind-api-2.3.2.jar!/" />
+      <root url="jar://D:/dependencies/jar_files (1)/stax2-api-4.2.1.jar!/" />
+      <root url="jar://D:/dependencies/jar_files (1)/woodstox-core-6.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
